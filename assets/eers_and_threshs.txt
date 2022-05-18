@@ -1,0 +1,4 @@
+Epoch 3's checkpoint - Train: EER 0.03338541666666667 at threshold 0.55
+Epoch 3's checkpoint - Test: EER 0.078125 at threshold 0.42
+Epoch 10's checkpoint - Train: EER 0.012552083333333332 at threshold 0.54
+Epoch 10's checkpoint - Test: EER 0.1003125 at threshold 0.31
